@@ -1,0 +1,16 @@
+06/27/24-Jun-2024 20:56:04, ETL Job Started
+06/27/24-Jun-2024 20:56:04, Extract Data Started
+06/27/24-Jun-2024 20:56:04, Extract Data Ended
+06/27/24-Jun-2024 20:56:04, Transform Data Started
+06/27/24-Jun-2024 20:56:04, Transform Data Ended
+06/27/24-Jun-2024 20:56:04, Load Data Started
+06/27/24-Jun-2024 20:56:04, Load Data Ended
+06/27/24-Jun-2024 20:56:04, ETL Job Ended
+06/27/24-Jun-2024 20:56:38, ETL Job Started
+06/27/24-Jun-2024 20:56:38, Extract Data Started
+06/27/24-Jun-2024 20:56:38, Extract Data Ended
+06/27/24-Jun-2024 20:56:38, Transform Data Started
+06/27/24-Jun-2024 20:56:38, Transform Data Ended
+06/27/24-Jun-2024 20:56:38, Load Data Started
+06/27/24-Jun-2024 20:56:38, Load Data Ended
+06/27/24-Jun-2024 20:56:38, ETL Job Ended
